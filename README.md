@@ -1,3 +1,5 @@
+![Jonathan Banner](/JonathanManiGithub.jpg?raw=true "Jonathan Banner")
+
 <h1 align="center">Hi 👋, I'm Jonathan Mani</h1>
 <h3 align="center">I'm a Software Developer from Toronto. My goal is to make life easier for the people around me</h3>
 

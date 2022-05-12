@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm into movie scores and geek out trying to understand the music theory behind them**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanmani_" height="30" width="40" /></a>
@@ -27,6 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanmani&" alt="jonathanmani" /></p>
 
 <hr>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

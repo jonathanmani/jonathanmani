@@ -32,4 +32,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
+- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
+- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
 <!-- BLOG-POST-LIST:END -->

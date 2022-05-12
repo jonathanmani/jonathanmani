@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmani&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F5B033&background=0D1117&stroke=807981&currStreakNum=F5B033&sideNums=F5B033&currStreakLabel=DD8803&sideLabels=DD8803&dates=DDDDDD" alt="jonathanmani" /></p>
 
-
 <hr>
 
 ### Blogs posts

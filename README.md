@@ -11,16 +11,11 @@
 
 - ⚡ Fun fact **I'm into movie scores and geek out trying to understand the music theory behind them**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanmani_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jonathan-mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-mani" height="30" width="40" /></a>
 <a href="https://hashnode.com/@jonathanmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jonathanmani" height="30" width="40" /></a>
-<a href="/https://hashnode.com/@jonathanmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@jonathanmani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

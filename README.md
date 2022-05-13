@@ -25,22 +25,15 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<<<<<<< HEAD
 <!-- BLOG-POST-LIST:END -->
 
 
 
 
 
-=======
-- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
-- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
-- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
-<!-- BLOG-POST-LIST:END -->
->>>>>>> 65ffb1d94c58080001ae027f5a75160d3480c641
 
 <div align="center">
-<table>
+<table border="none">
 <tr>
 <td width="33%">
 <a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="30" width="40"/></a>

@@ -24,7 +24,7 @@
 
 <h2 align="center">Data and Analytics</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmani&show_icons=true&title_color=f5b033&text_color=fffafa&bg_color=0d1117&icon_color=f5b033&locale=en" alt="jonathanmani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmani&show_icons=true&title_color=f5b033&text_color=fffafa&bg_color=0d1117&icon_color=f5b033&border_color=DDDDDD&hide_rank=false&locale=en" alt="jonathanmani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmani&date_format=M%20j%5B%2C%20Y%5D&ring=F5B033&background=0D1117&stroke=807981&currStreakNum=F5B033&sideNums=F5B033&currStreakLabel=DD8803&sideLabels=DD8803&dates=DDDDDD&border=DDDDDD" alt="jonathanmani" /></p>
 

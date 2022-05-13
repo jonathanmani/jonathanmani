@@ -30,7 +30,7 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jonathanmani&show_icons=true&title_color=f5b033&text_color=fffafa&bg_color=0d1117&icon_color=f5b033&border_color=DDDDDD&hide_rank=true&border_radius=0&locale=en" alt="jonathanmani" />
 </td>
 <td width="50%">
-<im  src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmani&date_format=M%20j%5B%2C%20Y%5D&ring=F5B033&background=0D1117&stroke=807981&currStreakNum=F5B033&sideNums=F5B033&currStreakLabel=DD8803&sideLabels=DD8803&dates=DDDDDD&border=DDDDDD&border_radius=0" alt="jonathanmani" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmani&date_format=M%20j%5B%2C%20Y%5D&ring=F5B033&background=0D1117&stroke=807981&currStreakNum=F5B033&sideNums=F5B033&currStreakLabel=DD8803&sideLabels=DD8803&dates=DDDDDD&border=DDDDDD&border_radius=0" alt="jonathanmani" />
 </table>
 </div>
 

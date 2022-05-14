@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="20" width="30"/></a>
 <a href="https://www.linkedin.com/in/jonathan-mani/" target="blank"><img align="center" src="linkedin.svg" height="20" width="30"></a>
-<a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="20" width="30"></a>
+<a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="20" width="3Q0"></a>
 </p>
 <h2 align="center">I'm a Software Developer from Toronto. My goal is to make life easier for the people around me</h2>
 

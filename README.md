@@ -33,17 +33,10 @@
 
 
 <div align="center">
-<table border-collapse="collapse">
-<tr>
-<td width="33%" border-top="none" border-bottom="none">
 <a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="30" width="40"/></a>
-</td>
-<td width="33%" border-top="none" border-bottom="none">
+
 <a href="https://www.linkedin.com/in/jonathan-mani/" target="blank"><img align="center" src="linkedin.svg" height="30" width="40"></a>
-</td>
-<td width="33%" border-top="none" border-bottom="none">
+
 <a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
-</td>
-</tr>
-</table>
+
 </div>

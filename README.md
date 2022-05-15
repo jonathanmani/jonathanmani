@@ -26,9 +26,7 @@
 <a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
 </p>
 
-<hr>
-
-### Blogs posts
+<h2 align="center">Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

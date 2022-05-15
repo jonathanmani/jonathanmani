@@ -1,9 +1,5 @@
 ![Jonathan Banner](/JonathanManiGithub.jpg?raw=true "Jonathan Banner")
-<p align="center">
-<a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/jonathan-mani/" target="blank"><img align="center" src="linkedin.svg" height="30" width="40"></a>
-<a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
-</p>
+
 <h2 align="center">I'm a Software Developer from Toronto. My goal is to make life easier for the people around me</h2>
 
 <h2 align="center">Data and Analytics</h2>
@@ -23,13 +19,17 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<h3 align="center">Let's Connect</h3>
+<p align="center">
+<a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/jonathan-mani/" target="blank"><img align="center" src="linkedin.svg" height="30" width="40"></a>
+<a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
+</p>
+
 <hr>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
-- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
-- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
 <!-- BLOG-POST-LIST:END -->
 
 

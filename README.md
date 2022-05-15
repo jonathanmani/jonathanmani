@@ -27,7 +27,7 @@
 </p>
 
 ### Blog Posts
-<!-- BLOG-POST-LIST:START -->Q
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 

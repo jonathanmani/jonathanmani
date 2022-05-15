@@ -10,7 +10,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmani&date_format=M%20j%5B%2C%20Y%5D&ring=F5B033&background=0D1117&stroke=807981&currStreakNum=F5B033&sideNums=F5B033&currStreakLabel=DD8803&sideLabels=DD8803&dates=DDDDDD&border=DDDDDD&border_radius=0&hide_border=true" alt="jonathanmani" />
 </td>
 <td width="50%">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmani&show_icons=true&title_color=f5b033&text_color=fffafa&bg_color=0d1117&icon_color=f5b033&border_color=DDDDDD&hide_rank=true&border_radius=0&hide_title=true&hide_border=truelocale=en" alt="jonathanmani" />
+<img src="https://github-readme-stats.vercel.app/api?username=jonathanmani&show_icons=true&title_color=f5b033&text_color=fffafa&bg_color=0d1117&icon_color=f5b033&border_color=DDDDDD&hide_rank=true&border_radius=0&hide_title=true&hide_border=truelocale=en" alt="jonathanmani" />
 </td>
 </tr>
 </table>
@@ -26,7 +26,7 @@
 <a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
 </p>
 
-<h2 align="center">Blog Posts</h3>
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

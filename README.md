@@ -29,16 +29,13 @@
 <a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/jonathan-mani/" target="blank"><img align="center" src="linkedin.svg" height="30" width="40"></a>
 <a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
-<a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="instagram.svg" height="30" width="40"></a>
+<!-- <a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="instagram.svg" height="30" width="40"></a> -->
 </p>
 
 <hr>
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
-- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
-- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
 <!-- BLOG-POST-LIST:END -->
 
 

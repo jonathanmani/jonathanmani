@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,nodejs,vscode,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,nodejs,mongodb,vscode,&theme=dark" />
   </a>
 </p>
 
@@ -29,6 +29,7 @@
 <a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/jonathan-mani/" target="blank"><img align="center" src="linkedin.svg" height="30" width="40"></a>
 <a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
+<a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="instagram.svg" height="30" width="40"></a>
 </p>
 
 <hr>

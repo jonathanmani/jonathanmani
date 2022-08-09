@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,nodejs,mongodb,express,heroku,netlify,vscode,figma&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,nodejs,mongodb,express,heroku,netlify,vscode,figma,tailwind&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -36,9 +36,6 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
-- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
-- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
 <!-- BLOG-POST-LIST:END -->
 
 

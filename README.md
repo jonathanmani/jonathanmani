@@ -1,7 +1,5 @@
 ![Jonathan Banner](/JonathanManiGithub.jpg?raw=true "Jonathan Banner")
 
-<h3 align="center">I'm a Software Developer from Toronto. My goal is to make life easier for the people around me</h2>
-
 <h2 align="center">Data and Analytics</h2>
 <div align="center">
 <table>
@@ -36,9 +34,6 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
-- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
-- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
 <!-- BLOG-POST-LIST:END -->
 
 

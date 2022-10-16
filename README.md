@@ -1,6 +1,14 @@
 ![Jonathan Banner](/JonathanManiGithub.jpg?raw=true "Jonathan Banner")
 
-<h2 align="center">Data and Analytics</h2>
+## About Me
+
+👉🏾 Worked as a software developer in the finance industry building client focused products that were meant to attract new clients and improve existing product lines
+
+👉🏾 Collaborated with managers and stakeholders to improve communication and efficiencies between tech teams
+
+👉🏾 Outside the world of tech, I enjoy reading, playing piano and going on hikes
+
+<!-- <h2 align="center">Data and Analytics</h2>
 <div align="center">
 <table>
 <tr>
@@ -12,34 +20,29 @@
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
-<h2 align="center">Skills</h3>
+## Skills
 
-<h3>FrontEnd Development</h3>
+### Front End Development
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%2380006B.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23FF6500.svg?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/CSS3-%2387CEEB.svg?style=for-the-badge&logo=CSS3&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%2380006B.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,nodejs,mongodb,express,heroku,netlify,vscode,figma,tailwind&theme=dark&perline=6" />
-  </a>
-</p>
+### Back End Development
 
-<h2 align="center">Let's Connect</h3>
-<p align="center">
-<a href="https://twitter.com/jonathanmani_" target="blank"><img align="center" src="twitter.svg" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/jonathan-mani/" target="blank"><img align="center" src="linkedin.svg" height="30" width="40"></a>
-<a href="https://jonathanmani.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" height="30" width="40"></a>
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23008015.svg?style=for-the-badge&logo=node.js&logoColor=%2361DAFB)
+
+### CI/CD & Hosting & Tools
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%2380006B.svg?style=for-the-badge&logo=heroku&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%23228B22.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/@jonathan_mani-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mani/) [![Twitter](https://img.shields.io/badge/@jonathanMani_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jonathanMani_) [![Mail Badge](https://img.shields.io/badge/jonathanmani-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:social.chapters@simplelogin.com)
 
 <hr>
 
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
-- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
-- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
 <!-- BLOG-POST-LIST:END -->

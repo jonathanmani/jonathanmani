@@ -2,11 +2,11 @@
 
 ## About Me
 
-👉🏾 Worked as a software developer in the finance industry building client focused products that were meant to attract new clients and improve existing product lines
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jonathanMani_) [![Mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:social.chapters@simplelogin.com)
 
-👉🏾 Collaborated with managers and stakeholders to improve communication and efficiencies between tech teams
+I'm a Full Stack Developer who has experience working in the finance industry building client focused products that were meant to attract new clients and improve existing product lines. I've also collaborated with managers and stakeholders and to improve communications and efficiencies between tech teams.
 
-👉🏾 Outside the world of tech, I enjoy reading, playing piano and going on hikes
+Outside the world of tech, I enjoy reading, playing piano or going on hikes
 
 <!-- <h2 align="center">Data and Analytics</h2>
 <div align="center">
@@ -22,11 +22,21 @@
 </table>
 </div> -->
 
+## Featured Projects
+
+All my projects are available on Github but here are a few that are worth taking a look at
+
+<div align="left">
+  <!--  InstaPrep   -->
+  <a href="https://github.com/jonathanmani/InstaPrep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=InstaPrep&theme=great-gatsby&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="InstaPrep"></a>
+
+</div>
+
 ## Skills
 
 ### Front End Development
 
-![HTML](https://img.shields.io/badge/html-%23FF6500.svg?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/CSS3-%2387CEEB.svg?style=for-the-badge&logo=CSS3&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%2380006B.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23FF6500.svg?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%2380006B.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Back End Development
 
@@ -34,11 +44,7 @@
 
 ### CI/CD & Hosting & Tools
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%2380006B.svg?style=for-the-badge&logo=heroku&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%23228B22.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/@jonathan_mani-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mani/) [![Twitter](https://img.shields.io/badge/@jonathanMani_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jonathanMani_) [![Mail Badge](https://img.shields.io/badge/jonathanmani-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:social.chapters@simplelogin.com)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%2380006B.svg?style=for-the-badge&logo=heroku&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%23228B22.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <hr>
 

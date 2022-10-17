@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jonathanMani_) [![Mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:social.chapters@simplelogin.com)
 
-I'm a Full Stack Developer who has experience working in the finance industry building client focused products that were meant to attract new clients and improve existing product lines. I've also collaborated with managers and stakeholders and to improve communications and efficiencies between tech teams.
+I'm a Full Stack Developer who has experience working in the finance industry building client focused products that attract new clients and improve existing product lines. I've also collaborated with managers and stakeholders and to improve communications and efficiencies between tech teams.
 
 Outside the world of tech, I enjoy reading, playing piano or going on hikes
 
@@ -29,7 +29,8 @@ All my projects are available on Github but here are a few that are worth taking
 <div align="left">
   <!--  InstaPrep   -->
   <a href="https://github.com/jonathanmani/InstaPrep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=InstaPrep&theme=great-gatsby&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="InstaPrep"></a>
-
+  <!--  Pomodoro Task Tracker   -->
+  <a href="https://github.com/jonathanmani/Pomodoro-Task-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=Pomodoro-Task-Tracker&theme=great-gatsby&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="InstaPrep"></a>
 </div>
 
 ## Skills

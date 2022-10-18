@@ -30,7 +30,9 @@ All my projects are available on Github but here are a few that are worth taking
   <!--  InstaPrep   -->
   <a href="https://github.com/jonathanmani/InstaPrep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=InstaPrep&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="InstaPrep"></a>
   <!--  Pomodoro Task Tracker   -->
-  <a href="https://github.com/jonathanmani/Pomodoro-Task-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=Pomodoro-Task-Tracker&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="InstaPrep"></a>
+  <a href="https://github.com/jonathanmani/Pomodoro-Task-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=Pomodoro-Task-Tracker&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Pomodoro"></a>
+  <!--  My Pocket Dictionary   -->
+  <a href="https://github.com/jonathanmani/My-Pocket-Dictionary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=My-Pocket-Dictionary&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Dictionary"></a>
 </div>
 
 ## Skills

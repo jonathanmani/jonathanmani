@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jonathanMani_) [![Mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:social.chapters@simplelogin.com)
 
-I'm a Full Stack Developer who has experience working in the finance industry building client focused products that attract new clients and improve existing product lines. I've also collaborated with managers and stakeholders and to improve communications and efficiencies between tech teams.
+I'm a Full Stack Software Developer who has experience working in the finance industry building client focused products that attract new clients and improve existing product lines. I've also collaborated with managers and stakeholders and to improve communications and efficiencies between tech teams.
 
 Outside the world of tech, I enjoy reading, playing piano or going on hikes
 
